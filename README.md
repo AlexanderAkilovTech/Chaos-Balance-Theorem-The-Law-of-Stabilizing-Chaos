@@ -1,18 +1,20 @@
-🚀 Chaos-Balance Theorem: The Law of Stabilizing Chaos
+🌀 Chaos-Balance Theorem: The Law of Stabilizing Chaos
 
-🔢 A groundbreaking mathematical theorem that reveals a hidden balance in chaotic systems.
+🚀 A fundamental mathematical theorem revealing that chaos naturally balances itself across multiple fields.
 
-🌀 This theorem stabilizes chaos in:
-✔ Prime Numbers (Riemann Hypothesis)
-✔ Chaotic Sequences (Collatz Conjecture)
-✔ Fractals (Mandelbrot Set)
-✔ Entropy & Thermodynamics
-✔ Black Hole Physics & Universe Expansion
-
-📜 Mathematics, physics, and the fundamental laws of nature may be more balanced than we ever realized.
+📊 This theorem connects chaos & stability in:
+✔ Prime Numbers (Riemann Hypothesis 🔢)
+✔ Chaotic Sequences (Collatz Conjecture 🔄)
+✔ Fractals & Complexity (Mandelbrot Set 🌌)
+✔ Entropy & Thermodynamics (2nd Law ♨️)
+✔ Black Hole Physics & Universe Expansion (🌠)
 
 🔍 Current Work:
 
-✅ Developing numerical proofs using Python
+✅ Developing Python simulations to validate the theorem
 ✅ Writing the formal mathematical proof in LaTeX
-🔜 Exploring real-world applications in cryptography, physics, and cosmology
+🔜 Exploring applications in cryptography, physics, and cosmology
+📜 Mathematics, physics, and the fundamental laws of reality may be more structured than we ever imagined.
+
+🚀 This repository documents the discovery, proof, and simulations of the Chaos-Balance Theorem.
+
