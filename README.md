@@ -6,3 +6,4 @@ Chaotic Sequences (Collatz Conjecture),
 Fractals (Mandelbrot Set),
 Entropy and Thermodynamics,
 Black Hole Physics, and Universe Expansion.
+Mathematics, physics, and the fundamental laws of nature may be more balanced than we ever realized.
