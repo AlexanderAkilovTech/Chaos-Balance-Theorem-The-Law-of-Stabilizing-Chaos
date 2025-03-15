@@ -5,4 +5,4 @@ Prime Numbers (Riemann Hypothesis)
 Chaotic Sequences (Collatz Conjecture)
 Fractals (Mandelbrot Set)
 Entropy & Thermodynamics
-Black Hole Physics & Universe Expansion
+Black Hole Physics & Universe Expansion.
