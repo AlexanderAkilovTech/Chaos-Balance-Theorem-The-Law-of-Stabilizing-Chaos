@@ -4,5 +4,5 @@ This theorem stabilizes chaos in:
 Prime Numbers (Riemann Hypothesis),
 Chaotic Sequences (Collatz Conjecture),
 Fractals (Mandelbrot Set),
-Entropy & Thermodynamics,
-Black Hole Physics, & Universe Expansion.
+Entropy and Thermodynamics,
+Black Hole Physics, and Universe Expansion.
